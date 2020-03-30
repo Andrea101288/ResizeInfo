@@ -4,4 +4,6 @@ It will tell you how you have to resize the image telling you the pixels you hav
 
 1) Insert the type of the document you have
 2) Insert the Resolution you want the image (DPI).
-Mergeeeeeeeee"·$37742985745092378523
+
+
+7742985745092378523
